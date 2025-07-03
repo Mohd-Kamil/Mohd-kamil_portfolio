@@ -750,7 +750,7 @@ const Portfolio: React.FC = () => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://www.linkedin.com/in/mohd-kamil-0b6b28245/"
+              href="https://www.linkedin.com/in/mohd-kamil-4b6241366/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-400 transition-colors inline-flex items-center justify-center p-2 rounded-full"
