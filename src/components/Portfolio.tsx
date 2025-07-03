@@ -632,7 +632,7 @@ const Portfolio: React.FC = () => {
             <Button onClick={() => window.open('https://github.com/Mohd-Kamil', '_blank')} variant="ghost" size="icon" className="hover:text-blue-400 transition-colors">
               <Github className="h-5 w-5" />
             </Button>
-            <Button onClick={() => window.open('https://www.linkedin.com/in/mohd-kamil-0b6b28245/', '_blank')} variant="ghost" size="icon" className="hover:text-blue-400 transition-colors">
+            <Button onClick={() => window.open('https://www.linkedin.com/in/mohd-kamil-4b6241366', '_blank')} variant="ghost" size="icon" className="hover:text-blue-400 transition-colors">
               <Linkedin className="h-5 w-5" />
             </Button>
             <Button onClick={() => window.open('https://mail.google.com/mail/?view=cm&fs=1&to=mohkamil.info@gmail.com', '_blank')} variant="ghost" size="icon" className="hover:text-blue-400 transition-colors">
