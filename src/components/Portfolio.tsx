@@ -97,7 +97,7 @@ const projects: Project[] = [
     description: "Pokedex web app to search any pokemon with 1000+ pokemons with images and every detail about them, it has retro style and with original pokedex style. it uses PokeAPI for fetching pokemon data and uses HTML, Tailwind, Next.js, and typescript",
     techStack: ["HTML", "Tailwind CSS", "Next.js", "TypeScript", "PokeAPI"],
     githubUrl: "https://github.com/Mohd-Kamil/Pokedex",
-    liveUrl: "https://pokedex-mohd-kamils-projects.vercel.app/",
+    liveUrl: "https://pokedex-five-nu-13.vercel.app/",
     category: "Frontend",
     logo: "bot"
   },
